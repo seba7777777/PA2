@@ -2,7 +2,6 @@
 ## Programming Assignment 2: Lexical Scoping
 ## Sebastian Gierz
 
-
 ## This function creates a special "matrix" object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
   #x is a matrix to invert(matrix supplied must be invertible)
